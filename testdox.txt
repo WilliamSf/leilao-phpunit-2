@@ -17,5 +17,5 @@ Alura\Leilao\Tests\Domain\Avaliador
  [x] Avaliador deve retornar os maiores lances disponiveis
 
 Alura\Leilao\Tests\Service\Encerrador
- [ ] Leiloes com mais de uma semana devem ser encerrados
+ [x] Leiloes com mais de uma semana devem ser encerrados
 
