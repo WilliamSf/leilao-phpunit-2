@@ -11,7 +11,7 @@ class Leilao
 
     public function __construct()
     {
-        $this->con = ConnectionCreator::getConnection();
+        // $this->con = ConnectionCreator::getConnection();
     }
 
     public function salva(ModelLeilao $leilao): void
