@@ -18,4 +18,5 @@ Alura\Leilao\Tests\Domain\Avaliador
 
 Alura\Leilao\Tests\Service\Encerrador
  [x] Leiloes com mais de uma semana devem ser encerrados
+ [x] Deve continuar o processoamento ao encontrar erro ao enviar email
 
